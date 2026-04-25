@@ -3,7 +3,7 @@
 A performance-optimized, static HTML portfolio showcasing Data Systems & AI Engineering projects. Built without external frameworks for maximum speed and simplicity.
 
 ## 🌐 Live Site
-[Live Site URL Placeholder - e.g., https://ranairemturhan.com]
+[Portfolio](https://rana-irem-turhan.iremturhan20001.workers.dev)
 
 ## 📁 Repository Structure
 ```text
